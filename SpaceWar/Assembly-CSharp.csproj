@@ -70,6 +70,7 @@
      <Compile Include="Assets\Scripts\MuroInvisibleArriba.cs" />
      <Compile Include="Assets\Scripts\Nave.cs" />
      <Compile Include="Assets\Scripts\PowerUp.cs" />
+     <Compile Include="Assets\Scripts\enemigo\Boss1.cs" />
      <Compile Include="Assets\Scripts\enemigo\EnemigoBasico.cs" />
      <Compile Include="Assets\Scripts\enemigo\Enemigos.cs" />
      <Compile Include="Assets\Scripts\enemigo\GrupoManager.cs" />
